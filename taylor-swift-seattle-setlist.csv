@@ -1,0 +1,43 @@
+song_name,era,night,order,bpm_published,seismic_freq_hz,peak_amplitude,sustained_amplitude,duration_seconds,has_low_freq,has_high_freq,correlation_between_nights,crowd_behavior,acoustic_or_band,notes
+Miss Americana & the Heartbreak Prince,Lover,both,1,130,2.17,,,210,yes,yes,,dancing,band,
+Cruel Summer,Lover,both,2,170,2.83,,,222,yes,yes,,jumping,band,High energy
+The Man,Lover,both,3,125,2.08,,,202,yes,yes,,dancing,band,Also detected in sound check without low freq
+You Need to Calm Down,Lover,both,4,85,1.42,,,183,yes,yes,,swaying,band,
+Lover,Lover,both,5,100,1.67,,,218,yes,yes,,swaying,band,
+The Archer,Lover,both,6,80,1.33,,,207,yes,no,,standing,acoustic,Slower tempo
+Fearless,Fearless,both,7,100,1.67,,,240,yes,yes,,dancing,band,
+You Belong with Me,Fearless,both,8,130,2.17,,,232,yes,yes,,jumping,band,
+Love Story,Fearless,both,9,119,1.98,,,235,yes,yes,,jumping during chorus,band,Amplitude spikes correlate with chorus jumps - documented in Figure 4 of paper
+'tis the damn season,evermore,both,10,110,1.83,,,229,yes,yes,,swaying,band,
+willow,evermore,both,11,100,1.67,,,254,yes,yes,,swaying,band,
+Champagne Problems,evermore,both,12,90,1.50,,,268,yes,no,,standing then standing ovation,acoustic,Spike at end from standing ovation
+tolerate it,evermore,both,13,95,1.58,,,249,yes,no,,standing,acoustic,
+Ready For It?,Reputation,both,14,160,2.67,,,212,yes,yes,,jumping,band,Highest sustained seismic energy - one of strongest signals
+Delicate,Reputation,both,15,96,1.60,,,232,yes,yes,,swaying,band,
+Don't Blame Me,Reputation,both,16,136,2.27,,,254,yes,yes,,jumping,band,
+Look What You Made Me Do,Reputation,both,17,128,2.13,,,211,yes,yes,,jumping,band,
+Enchanted,Speak Now,both,18,104,1.73,,,352,yes,yes,,swaying then jumping,band,Extended version
+22,Red,both,19,104,1.73,,,198,yes,yes,,jumping dancing,band,
+We Are Never Getting Back Together,Red,both,20,72,1.20,,,195,yes,yes,,jumping,band,
+All Too Well (10 min version),Red,both,21,93,1.55,,,613,yes,yes,,mixed,band,Extended 10 min version
+Style,1989,both,22,95,1.58,,,231,yes,yes,,dancing,band,
+Blank Space,1989,both,23,96,1.60,,,231,yes,yes,,dancing,band,
+Shake It Off,1989,both,24,160,2.67,,,239,yes,yes,0.95,jumping,band,Highest correlation between nights - iconic comparison in Figure 1
+Wildest Dreams,1989,both,25,70,1.17,,,220,yes,yes,,swaying,band,
+Bad Blood,1989,both,26,170,2.83,,,210,yes,yes,,jumping,band,
+cardigan,folklore,both,27,130,2.17,,,245,yes,yes,,swaying,band,
+august,folklore,both,28,114,1.90,,,254,yes,yes,,swaying,band,
+illicit affairs,folklore,both,29,106,1.77,,,230,yes,no,,standing,acoustic,
+betty,folklore,both,30,105,1.75,,,295,yes,yes,,dancing,band,
+the last great american dynasty,folklore,both,31,135,2.25,,,227,yes,yes,,dancing,band,
+Lavender Haze,Midnights,both,32,97,1.62,,,232,yes,yes,,dancing,band,
+Anti-Hero,Midnights,both,33,97,1.62,,,221,yes,yes,,jumping,band,
+Midnight Rain,Midnights,both,34,140,2.33,,,213,yes,yes,,dancing,band,
+Vigilante Shit,Midnights,both,35,73,1.22,,,201,yes,yes,,dancing,band,
+Bejeweled,Midnights,both,36,164,2.73,,,206,yes,yes,,jumping,band,
+Mastermind,Midnights,both,37,82,1.37,,,226,yes,yes,,swaying,band,
+Karma,Midnights,both,38,90,1.50,,,258,yes,yes,,jumping,band,Final song before surprise songs
+Surprise Song 1,Surprise,1,39,,,,,,yes,no,0.03,standing,acoustic,Different each night - Night 1 only
+Surprise Song 2,Surprise,1,40,,,,,,yes,no,0.03,standing,acoustic,Different each night - Night 1 only
+Surprise Song 1,Surprise,2,39,,,,,,yes,no,0.03,standing,acoustic,Different each night - Night 2 only
+Surprise Song 2,Surprise,2,40,,,,,,yes,no,0.03,standing,acoustic,Different each night - Night 2 only

@@ -1,0 +1,51 @@
+country,country_code,dominant_type,secondary_type,evidence,top_league_or_event,attendance_figure,source
+Brazil,BRA,sport,music,Serie A 9.9M attendance + football culture,Campeonato Brasileiro Serie A,9964214,ESPN/worldfootball.net
+Argentina,ARG,sport,music,Football culture + 44% attend live music (YouGov),Liga Profesional,5000000,YouGov + league data
+Spain,ESP,sport,music,La Liga 11.4M + World Cup celebration culture,La Liga,11394949,ESPN
+Germany,DEU,sport,music,Bundesliga 11.8M + 2. Bundesliga 9.4M = 21M total,Bundesliga,11827596,ESPN
+England,GBR,sport,music,Premier League 15M — highest in world football,Premier League,15074553,ESPN
+Italy,ITA,sport,culture,Serie A 11.5M,Serie A,11530364,ESPN
+France,FRA,sport,music,Ligue 1 8.2M + Top 14 rugby 3.2M,Ligue 1,8200661,ESPN
+Mexico,MEX,sport,music,Liga MX 8.2M + Estadio Azteca culture,Liga MX,8244861,ESPN
+United States,USA,sport,music,NFL 18.8M + MLB 71.4M + NCAA 32.8M — sport dominates massively,NFL + MLB + NCAA,122000000,pro-football-reference/baseball-reference/NCAA
+Canada,CAN,sport,music,NHL 23M + CFL 1.9M + MLS growing,NHL,23014458,hockey-reference.com
+Japan,JPN,sport,music,NPB 27M + baseball culture dominates live,Nippon Professional Baseball,27040286,npb.jp
+South Korea,KOR,sport,music,KBO 12.3M — baseball is king,KBO League,12312519,koreabaseball.com
+India,IND,sport,festivals,IPL 3.8M (cricket) + massive festival culture,Indian Premier League,3766860,IPL official
+Australia,AUS,sport,music,AFL 8.3M + NRL 4.4M + cricket,Australian Football League,8257027,afltables.com
+Netherlands,NLD,music,sport,79% attend live performances (Eurostat) — highest in EU,Live performances,79,Eurostat ilc_scp03
+Finland,FIN,music,sport,51% attend live music (YouGov) + 74.8% (Eurostat),Live music,51,YouGov Global Profiles
+Sweden,SWE,music,sport,72.3% attend live performances (Eurostat),Live performances,72.3,Eurostat ilc_scp03
+Norway,NOR,music,sport,73.1% attend live performances (Eurostat),Live performances,73.1,Eurostat ilc_scp03
+Denmark,DNK,music,culture,72.6% live performances + 80.3% cultural activities,Live performances,72.6,Eurostat ilc_scp03
+Czechia,CZE,music,sport,77.8% attend live performances — highest in EU,Live performances,77.8,Eurostat ilc_scp03
+Estonia,EST,music,sport,74% attend live performances,Live performances,74,Eurostat ilc_scp03
+Luxembourg,LUX,music,culture,73.7% live performances + 64.4% cultural,Live performances,73.7,Eurostat ilc_scp03
+Ireland,IRL,music,sport,68.1% live performances + strong sport (GAA rugby),Live performances,68.1,Eurostat ilc_scp03
+Portugal,POR,music,sport,44% attend live music (YouGov) + 50.8% (Eurostat),Live music,44,YouGov Global Profiles
+Switzerland,CHE,music,culture,69% live performances + 63.6% cultural,Live performances,69,Eurostat ilc_scp03
+Belgium,BEL,music,sport,64.9% live performances + Tomorrowland culture,Live performances + Tomorrowland,64.9,Eurostat ilc_scp03
+Austria,AUT,music,culture,69% live performances + strong classical culture,Live performances,69,Eurostat ilc_scp03
+Indonesia,IDN,festivals,music,Festival culture + 67% say music videos important,Festivals/religious,67,YouGov + MDPI
+Thailand,THA,festivals,music,Festival culture dominant (Songkran etc),Festivals/religious,,MDPI festival data
+Philippines,PHL,festivals,music,Festival culture (Sinulog Arzobispal etc) + 49% eager for artists,Festivals,49,YouGov
+Nepal,NPL,festivals,religious,Festival/religious gathering culture dominates,Religious/cultural festivals,,Public knowledge
+Saudi Arabia,SAU,festivals,sport,MDLBEAST Soundstorm 700K + emerging festival scene,MDLBEAST Soundstorm,700000,Industry reports
+UAE,ARE,festivals,sport,Emerging festival/event hub (Dubai Expo 33M visits),Dubai Expo + festivals,33000000,Expo official
+Morocco,MAR,festivals,sport,17% live music (lowest YouGov) but Mawazine festival 2.5M,Mawazine Festival,2500000,YouGov + festival data
+Egypt,EGY,festivals,sport,19% live music (YouGov) — religious/cultural gatherings dominate,Religious/cultural,,YouGov
+China,CHN,festivals,sport,Festival culture (Spring Festival 596M domestic tourism trips) + concert growth,Spring Festival travel,596000000,Public data
+Turkey,TUR,sport,festivals,Football culture + 26.5% live performances,Football + cultural,26.5,Eurostat + league data
+Poland,POL,sport,music,Football + 41.4% live performances,Football/live music,41.4,Eurostat ilc_scp03
+Romania,ROU,sport,festivals,Football + 24.6% live performances (lowest EU),Football,24.6,Eurostat ilc_scp03
+Serbia,SRB,sport,music,Football culture + 37.3% live performances,Football,37.3,Eurostat ilc_scp03
+Greece,GRC,sport,music,Football + 57.2% live performances,Football/music,57.2,Eurostat ilc_scp03
+Croatia,HRV,sport,music,Football + 47.6% live performances,Football,47.6,Eurostat ilc_scp03
+Colombia,COL,sport,festivals,Football + festival culture (Carnival de Barranquilla),Football + carnival,,Public knowledge
+Peru,PER,sport,festivals,Football culture,Football,,Public knowledge
+Chile,CHL,sport,music,Football + growing concert scene,Football,,Public knowledge
+New Zealand,NZL,sport,music,Rugby dominates (All Blacks culture),Rugby,,Public knowledge
+South Africa,ZAF,sport,music,Rugby + football + cricket,Rugby/football,,Public knowledge
+Pakistan,PAK,sport,religious,Cricket (PSL) + religious gatherings,Cricket/PSL,,PSL data
+Bangladesh,BGD,sport,religious,Cricket culture,Cricket,,Public knowledge
+Vietnam,VNM,festivals,sport,18% live music (lowest YouGov) — festival culture,Festivals,18,YouGov
